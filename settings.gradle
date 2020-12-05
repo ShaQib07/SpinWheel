@@ -1,0 +1,3 @@
+include ':spinwheel'
+include ':app'
+rootProject.name = "LibraryTest"
